@@ -1,4 +1,4 @@
-# MODULE-2-POWER-BI- AIRBNB DATASET
+# Airbnb NYC Listings (Module 2) Power BI Report
 Airbnb NYC Listings Analysis - Power BI Report
 This Power BI report offers an in-depth analysis of Airbnb listings in New York City. It leverages multiple data visualizations to uncover trends related to listing distribution, room types, pricing dynamics, neighborhood comparisons, and more. The following sections describe each visual, the insights it provides, and the conclusions drawn from the data.
 
